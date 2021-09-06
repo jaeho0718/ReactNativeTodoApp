@@ -16,6 +16,7 @@ const Input = ({inputValue,inputChange}) => (
 const styles = StyleSheet.create({
     inputContainer : {
         marginLeft : 20,
+        marginTop : 20,
         marginRight : 20,
         shadowOpacity : 0.2,
         shadowRadius : 3,
